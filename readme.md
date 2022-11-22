@@ -12,3 +12,7 @@
 ## Blog
 
 <a href="https://wealthy-raptor-d2f.notion.site/XD-4443b39cbbdc48c78a5bec43a545c511"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+<a href="https://instagram.com/its___timi?igshid=MDM4ZDc5MmU="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+
