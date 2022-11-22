@@ -1,4 +1,4 @@
-# 응애 나 애기 개발자
+# tmi-> timi -> itstimi
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitstimi-XD&count_bg=%237A509F&title_bg=%238F477A&icon=&icon_color=%237847A1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
