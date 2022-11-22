@@ -9,5 +9,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## Projects
-* [practice](https://github.com/itstimi-XD/practice)
+## Blog
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)]
+
+<a href="https://wealthy-raptor-d2f.notion.site/XD-4443b39cbbdc48c78a5bec43a545c511"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
