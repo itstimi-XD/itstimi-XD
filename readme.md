@@ -16,3 +16,6 @@
 <a href="https://instagram.com/its___timi?igshid=MDM4ZDc5MmU="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
+## 어제 막 시작한 코테준비..!
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itstimi)](https://solved.ac/itstimi)
