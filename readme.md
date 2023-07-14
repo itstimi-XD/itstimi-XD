@@ -10,4 +10,4 @@
 
 ## Blog
 
-![Tistory](https://itstimi.tistory.com/)
+[Tistory](https://itstimi.tistory.com/)
