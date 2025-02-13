@@ -6,6 +6,15 @@
   <img src="https://render.gitanimals.org/farms/itstimi-XD"/>
 </a>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/677880032695966208/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
+
 I'm a passionate **Backend Software Engineer** who thrives on solving complex problems with clean and efficient code. My expertise lies in developing robust and scalable applications using **Kotlin**, **Spring Boot**, **JPA**, and **PostgreSQL**.
 
 
