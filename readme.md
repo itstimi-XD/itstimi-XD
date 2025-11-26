@@ -1,10 +1,6 @@
 ## Hi there! 😎
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/itstimi-XD"/>
-</a>
-
-I'm a passionate **Backend Software Engineer** who thrives on solving complex problems with clean and efficient code.  
+I'm a passionate **Software Engineer** who thrives on solving complex problems with clean and efficient code.  
 My expertise lies in developing robust and scalable applications using **Kotlin**, **Spring Boot**, **JPA**, and **PostgreSQL**.
 
 ---
