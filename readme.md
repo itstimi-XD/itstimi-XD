@@ -1,44 +1,43 @@
-## Hi there! 😎
+## Hi, I'm Nova 👋
 
-I'm a passionate **Software Engineer** who thrives on solving complex problems with clean and efficient code.  
-My expertise lies in developing robust and scalable applications using **Kotlin**, **Spring Boot**, **JPA**, and **PostgreSQL**.
+Backend engineer in Seoul. I build open-source infrastructure that your team runs cheaper than SaaS — and AI agents (Claude, Cursor, Cline) can call natively as MCP tools.
 
 ---
 
-## 📝 Blog & Resume
+## 🚀 Currently Building
 
-- 📚 [Tistory Blog](https://itstimi.tistory.com/)  
-- 📝 [Velog Blog](https://velog.io/@nova-kim/posts)  
+**[zapier-replacement-mcp](https://github.com/itstimi-XD/zapier-replacement-mcp)** — open-source automation backend humans run cheaper than Zapier, and AI agents call natively as MCP tools.
+
+- Spring Boot 3.5 · Kotlin 1.9 · Java 21 · multi-module Gradle KTS
+- Clean Architecture — dependency direction enforced at compile time + via ArchUnit
+- 2 of 6 Zapier anti-pattern templates shipped (`multi-branch-router`, `cascading-zaps`)
+- 22 tests · MCP layer + more templates landing as they're built
+
+---
+
+## 🛠️ Stack
+
+**Backend** — Kotlin, Spring Boot, Java 21, Gradle KTS, PostgreSQL, JPA
+**Frontend** — TypeScript, React, Tailwind CSS
+**Infra** — Docker, AWS EC2, Nginx, Fly.io
+**AI tooling** — Claude Code (skills, hooks, MCP, agent teams), Anthropic SDK, Model Context Protocol
+**Practices** — Clean Architecture, ArchUnit, structured concurrency, subagent code review loops
+
+---
+
+## 📚 Writing & Profile
+
+- 📝 [Velog](https://velog.io/@nova-kim/posts) — dev posts (Korean)
+- 📚 [Tistory](https://itstimi.tistory.com/)
 - 📄 [Public Resume](https://www.rallit.com/hub/resumes/42037/%EA%B9%80%EC%9D%B8%ED%9B%84)
-
-Feel free to check out my blogs for more insights, or view my resume for more information!
-
----
-
-## 🧑‍💻 About Me
-
-- 💡 Enjoys building robust, scalable backend systems  
-- 🤝 Strong believer in the power of communication and collaboration — I love working with others to create great things!
-- ✨ Especially interested in growing my soft skills, which are more important than ever for junior developers today
-- 🛠️ Focused on writing clean, maintainable code  
-- 🌱 Always learning new technologies and best practices
 
 ---
 
 ## 📈 GitHub Stats
 
-![itstimi-XD's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstimi-XD)
+![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstimi-XD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itstimi-XD&layout=compact)
 
 ---
 
-## 🛠️ Tech Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007ACC?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
-
----
+<sub>Seoul (KST) · Remote-friendly across US / EU timezones · Building in the open</sub>
