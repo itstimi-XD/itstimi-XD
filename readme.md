@@ -25,11 +25,4 @@ Backend engineer in Seoul. I build open-source infrastructure that your team run
 
 ---
 
-## 📈 GitHub Stats
-
-![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstimi-XD)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itstimi-XD&layout=compact)
-
----
-
 <sub>Seoul (KST) · Remote-friendly across US / EU timezones · Building in the open · Reach me via repo issues / discussions</sub>
